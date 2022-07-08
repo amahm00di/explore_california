@@ -1,1 +1,5 @@
 tempfile.txt
+log\*.log
+log\*.log.[0-9]
+assets\videos\
+!assets\vedeos\tour_*.mp4
