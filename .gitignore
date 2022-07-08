@@ -1,4 +1,5 @@
 tempfile.txt
+tempfile*.txt
 log\*.log
 log\*.log.[0-9]
 assets\videos\
